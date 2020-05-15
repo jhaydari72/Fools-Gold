@@ -64,9 +64,6 @@ collision_layer = 2
 collision_mask = 2
 gravity_scale = 0.0
 script = ExtResource( 3 )
-__meta__ = {
-"_edit_group_": true
-}
 
 [node name="spr_key" type="Sprite" parent="obj_key"]
 position = Vector2( 0, 2 )
