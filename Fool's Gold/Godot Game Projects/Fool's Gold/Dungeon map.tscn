@@ -329,6 +329,7 @@ position = Vector2( 475.105, 173.091 )
 scale = Vector2( 0.439076, 0.491258 )
 
 [node name="obj_bag5" parent="Bags" instance=ExtResource( 18 )]
+<<<<<<< HEAD
 position = Vector2( 828.33, 339.18 )
 scale = Vector2( 0.439076, 0.491258 )
 
@@ -339,6 +340,15 @@ scale = Vector2( 0.439076, 0.491258 )
 [node name="obj_bag7" parent="Bags" instance=ExtResource( 18 )]
 position = Vector2( 920.475, 487.068 )
 scale = Vector2( 0.439076, 0.491258 )
+=======
+position = Vector2( 825.758, 334.036 )
+
+[node name="obj_bag6" parent="Bags" instance=ExtResource( 18 )]
+position = Vector2( 934.415, 116.796 )
+
+[node name="obj_bag7" parent="Bags" instance=ExtResource( 18 )]
+position = Vector2( 928.191, 489.64 )
+>>>>>>> parent of a97cd30... Home Screen Title
 
 [node name="obj_bag8" parent="Bags" instance=ExtResource( 18 )]
 position = Vector2( 97.4216, 477.968 )
@@ -346,7 +356,13 @@ scale = Vector2( 0.439076, 0.491258 )
 
 [node name="obj_bag9" parent="Bags" instance=ExtResource( 18 )]
 position = Vector2( 743.579, 50.7986 )
+<<<<<<< HEAD
 scale = Vector2( 0.439076, 0.491258 )
+=======
+
+[node name="obj_bag10" parent="Bags" instance=ExtResource( 18 )]
+position = Vector2( 926.2, 544.646 )
+>>>>>>> parent of a97cd30... Home Screen Title
 
 [node name="Control" type="Control" parent="."]
 margin_left = 0.347885
